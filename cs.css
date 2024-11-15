@@ -53,13 +53,13 @@ main {
 }
 .text h1 {
   color: #00252e;
-  font-size: 40px;
+  font-size: 30px;
 }
 .text p {
   padding-top: 30px;
   padding-bottom: 30px;
   color: #243f45;
-  font-size: 15px;
+  font-size: 10px;
 }
 .img img {
   width: 100%;
